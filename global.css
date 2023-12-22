@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ibm-plex-sans: "IBM Plex Sans";
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-gray: #8a8a8a;
+  --color-whitesmoke: #f7f8fa;
+  --color-gainsboro: #d9d9db;
+  --color-white: #fff;
+  --color-royalblue: #2f6ce5;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-5xs: 8px;
+}
